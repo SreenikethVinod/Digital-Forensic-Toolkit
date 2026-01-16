@@ -1,0 +1,10 @@
+flask
+flask-socketio
+eventlet
+scapy
+Pillow
+PyPDF2
+python-docx
+regipy
+stegano
+werkzeug
